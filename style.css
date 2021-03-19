@@ -1,0 +1,59 @@
+body {
+  display: flex;
+  background-color: rgb(210, 248, 213);
+}
+
+.options {
+  flex: 0.5;
+  margin-right: 20px;
+}
+
+.table {
+  margin-right: 20px;
+}
+
+.options > .sort {
+  margin: 20px 20px;
+}
+
+#filter {
+  background-color: rgb(238, 248, 239);
+}
+
+.table {
+  flex: 1;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#table {
+  width: 100%;
+  text-align: left;
+  background-color: white;
+  border-radius: 8px;
+}
+
+#table > tbody {
+  overflow-y: auto;
+}
+
+.tableFixHead {
+  overflow-y: auto;
+  height: 100px;
+}
+.tableFixHead thead th {
+  position: sticky;
+  top: 0;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th,
+td {
+  padding: 8px 16px;
+}
+th {
+  background: #eee;
+}
