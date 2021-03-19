@@ -13,7 +13,7 @@ The project consists in a employee listing page with sorting and filtering capab
 
 - The backend database was given by the teacher.
 
-- The had to be sorted by name and salary, both ascending and descending.
+- The list had to be sorted by name and salary, both ascending and descending.
 
 - It should be possible to filter the list by employee roles.
 
