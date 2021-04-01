@@ -20,3 +20,7 @@ The project consists in a employee listing page with sorting and filtering capab
 - The interface must show how many employees are being exhibited at the moment.
 
   
+
+**Screenshot:**
+
+![](C:\Desktop\CURSOS\IGTI\Bootcamp Front End\Projetos\Módulo 1\Desafio final mód 1\Employee data screenshot.jpg)
