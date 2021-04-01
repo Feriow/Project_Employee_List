@@ -23,4 +23,4 @@ The project consists in a employee listing page with sorting and filtering capab
 
 **Screenshot:**
 
-![](C:\Desktop\CURSOS\IGTI\Bootcamp Front End\Projetos\Módulo 1\Desafio final mód 1\Employee data screenshot.jpg)
+![Employee data screenshot](https://user-images.githubusercontent.com/79882701/113348508-0d2f6580-930d-11eb-832c-c18efac3b6a4.jpg)
