@@ -24,3 +24,20 @@ The project consists in a employee listing page with sorting and filtering capab
 **Screenshot:**
 
 ![Employee data screenshot](https://user-images.githubusercontent.com/79882701/113348508-0d2f6580-930d-11eb-832c-c18efac3b6a4.jpg)
+
+## Backend Setup:
+
+Using json-server (https://github.com/typicode/json-server)
+
+Install JSON Server
+
+```
+npm install -g json-server
+```
+
+Start JSON Server
+
+```
+json-server --watch db.json
+```
+
